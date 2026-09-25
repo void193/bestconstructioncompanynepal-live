@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bestconstructioncompanynepal.live/sitemap.xml
+Sitemap: https://www.bestconstructioncompanynepal.live/sitemap.xml
